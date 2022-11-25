@@ -51,6 +51,11 @@
     <Compile Include="Lesson1-Files-20_11_22\Ex1.cs" />
     <Compile Include="Lesson1-Files-20_11_22\Ex2.cs" />
     <Compile Include="Lesson1-Files-20_11_22\BankEx3.cs" />
+    <Compile Include="Lesson2-HW_HashTable-21_11_22\Manager.cs" />
+    <Compile Include="Lesson2-singleton-21_11_22\Bank.cs" />
+    <Compile Include="Lesson2-singleton-21_11_22\Manager.cs" />
+    <Compile Include="Lesson2-HW_HashTable-21_11_22\Falafel.cs" />
+    <Compile Include="Lesson2-HW_HashTable-21_11_22\IceCream.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
